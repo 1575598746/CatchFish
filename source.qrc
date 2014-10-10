@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/back.png</file>
+        <file>images/back_p.png</file>
+        <file>images/bg.png</file>
+        <file>images/checked.png</file>
+        <file>images/checked_p.png</file>
+        <file>images/correct.png</file>
+        <file>images/correct_p.png</file>
+        <file>images/option.png</file>
+        <file>images/option_p.png</file>
+        <file>images/quit.png</file>
+        <file>images/quit_p.png</file>
+        <file>images/radio.png</file>
+        <file>images/start.png</file>
+        <file>images/start_p.png</file>
+        <file>images/top.png</file>
+        <file>images/top_p.png</file>
+        <file>images/pufferfish_2.png</file>
+        <file>images/sardine_2.png</file>
+        <file>images/shark_2.png</file>
+        <file>images/tortoise_2.png</file>
+        <file>images/button.png</file>
+        <file>images/button-hover.png</file>
+        <file>images/button-pressed.png</file>
+        <file>images/delete.png</file>
+        <file>images/delete_p.png</file>
+        <file>images/down-arrow.png</file>
+        <file>style_sheet.qss</file>
+    </qresource>
+</RCC>

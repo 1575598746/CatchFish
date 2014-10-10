@@ -1,0 +1,48 @@
+QCheckBox{
+      font: bold; 
+      font-size:20px; 
+     
+}
+QCheckBox:checked {
+	 spacing: 2px;   
+         
+         
+}
+
+QCheckBox::indicator {
+    width: 20px;
+    height: 20px;
+
+}
+
+QCheckBox::indicator:checked {
+     	image: url(:/images/checked_p.png);
+}
+QCheckBox::indicator:unchecked {
+     	image: url(:/images/checked.png);
+}
+
+
+QRadioButton {
+    font: bold; 
+    font-size:20px; 
+    spacing: 2px;
+}
+
+QRadioButton::indicator {
+    width: 20px;
+    height: 20px;
+}
+
+QRadioButton:checked {
+         
+}
+
+QRadioButton::indicator:checked {
+   image: url(:/images/checked_p.png);
+      
+}
+QRadioButton::indicator:unchecked {
+     	image: url(:/images/radio.png);
+}
+
